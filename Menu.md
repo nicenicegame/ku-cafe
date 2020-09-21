@@ -2,15 +2,23 @@
 
 ## Breakfast Menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Item        | Price |
+| :---------- | ----: |
+| nothing yet |   0.0 |
 
 ## Lunch Menu
 
 Coming soon.
 
-etc.
+## Beverages
+
+| Item          | Price |
+| :------------ | ----: |
+| Green Tea     |  50.0 |
+| Pepsi         |  20.0 |
+| Thai Tea      |  50.0 |
+| Mineral Water |  20.0 |
+| Espresso      |  50.0 |
 
 ---
 

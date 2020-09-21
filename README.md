@@ -6,7 +6,7 @@ Breakfast Menu
 Lunch Menu
 Dinner Menu
 Night Food Menu
-Beverages
+[Beverages](Menu.md)
 
 ## About Us
 
@@ -16,3 +16,6 @@ Beverages
 |:----------|-----------|----------|
 | Your name | Your menu | @your_github_id |
 | ...       | ...       | ...      |
+|           |           |          |
+|           |           |          |
+| Tatpol Samakpong | Beverages | @nicenicegame |
