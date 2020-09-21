@@ -8,6 +8,20 @@
 
 ## Lunch Menu
 
+
+
+
+
+
+
+## Dinner Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Tomyum namsai                          |  0.0  |
+| yum salmon                             |  0.0  |
+| fried rice                             |  0.0  |
+
 Coming soon.
 
 etc.
