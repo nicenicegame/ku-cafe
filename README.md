@@ -1,20 +1,16 @@
 # KU Cafe
 
-
-Breakfast Menu 
-Lunch Menu  
-Dinner Menu [Dinner](Menu.md#dinner)
-Night Food Menu
-Beverages
+[Breakfast Menu](Menu.md#-breakfast-menu)   
+[Lunch Menu](Menu.md#-lunch-menu)  
+[Dinner Menu](Menu.md#dinner)  
+Night Food Menu  
+Beverages  
 
 ## About Us
 
-**TODO**: Each person adds himself to this list; **not** one person adds everyone
-
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
-| ...       | ...       | ...      |
-| Siravit Ruethaiwat  | Dinner    | Kuea666  |
-| ...       | ...       | ...      |
-| ...       | ...       | ...      |
+| Anuisd | Breakfast Menu | @ttxking|
+| Bhatara Chaemchan | Lunch Menu   | @bhatara007|
+| Siravit Ruethaiwat  | Dinner Menu   | Kuea666 |
+
