@@ -2,43 +2,49 @@
 
 ## Breakfast Menu
 
-| Item        | Price |
-| :---------- | ----: |
-| nothing yet |   0.0 |
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Egg Benedict                           |  195.00  |
+| Omelette                               |  225.00  |
+| French Toast                           |  250.00  |
+| Toast and Coffee                       |  150.00  | 
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Mushroom Soup                          |  70.00   |
+| Sea Food Fired Rice                    |  120.00  |
+| Orange Juice                           |  39.00   |
+| Ceasar Salad with Bacon                |  89.00   |
 
+## Dinner Menu
 
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Tomyum namsai                          | 150.00 |
+| yum salmon                             | 200.00 |
+| fried rice                             |  70.00 |
 
+## Night Food Menu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Item                                   | Price   |
+|:---------------------------------------|--------:|
+| Chips & dip                            |  170.00  |
+| Fish & chips                           |  210.00  |
+| Instant Ramen                          |   50.00  |
+| Fries                                  |  100.00  |
+| Burgur                                 |  150.00  |
 
 ## Beverages
 
 | Item          | Price |
 | :------------ | ----: |
-| Green Tea     |  50.0 |
-| Pepsi         |  20.0 |
-| Thai Tea      |  50.0 |
-| Mineral Water |  20.0 |
-| Espresso      |  50.0 |
+| Green Tea     |  50.00 |
+| Pepsi         |  20.00 |
+| Thai Tea      |  50.00 |
+| Mineral Water |  20.00 |
+| Espresso      |  50.00 |
 
 ---
 
