@@ -10,8 +10,8 @@
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Anuisd | Breakfast Menu | @ttxking|
+| Anuisd Wachiracharoenwong | Breakfast Menu | @ttxking|
 | Bhatara Chaemchan | Lunch Menu | @bhatara007|
 | Siravit Ruethaiwat | Dinner Menu | @Kuea666 |
-| Sirapop | Night food menu | @SIrapopKunjiak |
+| Sirapop Kunjiak | Night food menu | @SIrapopKunjiak |
 | Tatpol Samakpong | Beverages | @nicenicegame |
