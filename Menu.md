@@ -10,10 +10,10 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Mushroom Soup                          |  70   |
-| Sea Food Fired Rice                    |  120  |
-| Orange Juice                           |  39   |
-| Ceasar Salad with Bacon                |  89   |
+| Mushroom Soup                          |  70.0   |
+| Sea Food Fired Rice                    |  120.0  |
+| Orange Juice                           |  39.0   |
+| Ceasar Salad with Bacon                |  89.0   |
 
 ---
 
