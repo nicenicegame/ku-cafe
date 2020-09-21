@@ -2,7 +2,7 @@
 
 [Breakfast Menu](Menu.md#breakfast-menu)   
 [Lunch Menu](Menu.md#Lunch-Menu)   
-[Dinner Menu](Menu.md#dinner)   
+[Dinner Menu](Menu.md#dinner-menu)   
 [Night Food Menu](Menu.md#Night-Food-Menu)  
 [Beverages](Menu.md#beverages)
 
