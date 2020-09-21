@@ -4,10 +4,10 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Egg Benedict                           |  195  |
-| Omelette                               |  225  |
-| French Toast                           |  250  |
-| Toast and Coffee                       |  150  | 
+| Egg Benedict                           |  195.0  |
+| Omelette                               |  225.0  |
+| French Toast                           |  250.0  |
+| Toast and Coffee                       |  150.0  | 
 
 ## Lunch Menu
 
