@@ -18,9 +18,9 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Tomyum namsai                          |  0.0  |
-| yum salmon                             |  0.0  |
-| fried rice                             |  0.0  |
+| Tomyum namsai                          | 150.0 |
+| yum salmon                             | 200.0 |
+| fried rice                             |  70.0 |
 
 Coming soon.
 
