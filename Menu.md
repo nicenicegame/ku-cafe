@@ -25,6 +25,7 @@
 | Tomyum namsai                          | 150.00 |
 | yum salmon                             | 200.00 |
 | fried rice                             |  70.00 |
+| Turkey in Cream Sauce                  | 260.00 |
 
 ## Night Food Menu
 
