@@ -8,9 +8,12 @@
 
 ## Lunch Menu
 
-Coming soon.
-
-etc.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Mushroom Soup                          |  70   |
+| Sea Food Fired Rice                    |  120  |
+| Orange Juice                           |  39   |
+| Ceasar Salad with Bacon                |  89   |
 
 ---
 
