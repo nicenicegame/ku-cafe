@@ -18,6 +18,14 @@
 | Orange Juice                           |  39.0   |
 | Ceasar Salad with Bacon                |  89.0   |
 
+## Dinner Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Tomyum namsai                          | 150.0 |
+| yum salmon                             | 200.0 |
+| fried rice                             |  70.0 |
+
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
